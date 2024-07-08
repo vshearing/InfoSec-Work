@@ -5,6 +5,8 @@ I'm a computer science teacher with 20 years of experience in K-12 education, wi
 
 This repository reflects my dual focus. You'll find:
 
-Cybersecurity Projects: These projects stem from my collaboration with the school district IT department, focusing on policy development. Here you'll find the Patch Management Policy and Schedule, and the Data Retention Policy for the district.
-Educational Resources (Future): I plan to add resources related to computer science education in the future.
+*Cybersecurity Projects: These projects stem from my collaboration with the school district IT department, focusing on policy development. Here you'll find the Patch Management Policy and Schedule, and the Data Retention Policy for the district.
+
+*Educational Resources (Future): I plan to add resources related to computer science education in the future.
+
 I'm constantly learning and growing. Feel free to explore the repository and reach out if you have any questions!
